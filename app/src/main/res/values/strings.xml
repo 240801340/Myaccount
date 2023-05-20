@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Account Keeping</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">小勤快</string>
+    <string name="nav_header_subtitle">一个单纯的记账小书童</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_share">分享</string>
+
+    <string name="menu_homepage">首页</string>
+    <string name="menu_history">历史查看</string>
+    <string name="menu_analysis">分析统计</string>
+    <string name="menu_sort">分类管理</string>
+    <string name="menu_account">账户管理</string>
+    <string name="menu_more">更多</string>
+
+
+    <string name="string_confirmation">确定</string>
+    <string name="string_cancel">取消</string>
+    <string name="string_confirm_delete">你确定要删除</string>
+    <string name="hint">提示</string>
+    <string name="text_view_date">日期：</string>
+    <string name="text_view_income">收：</string>
+    <string name="text_view_expend">支：</string>
+
+
+    <string name="pure">净资产</string>
+    <string name="all_income">月总收入</string>
+    <string name="all_expend">月总支出</string>
+
+    <string name="string_menu_add">添加</string>
+    <string name="string_menu_edit">修改</string>
+    <string name="string_menu_delete">删除</string>
+
+</resources>
